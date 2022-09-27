@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @GratonCharles
+- 🌱 I’m currently learning C++
